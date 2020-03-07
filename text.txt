@@ -6,3 +6,5 @@ Esta otra linea permite el conflicto.
 Ahora voy a crear un conflicto.
 
 listo genere el conflicto.
+
+he usado el comando git log.
