@@ -2,5 +2,7 @@ Este es un texto para jugar con Git.
 
 Ahora estamos en la rama Other.
 
-
 Esta otra linea permite el conflicto.
+Ahora voy a crear un conflicto.
+
+listo genere el conflicto.
