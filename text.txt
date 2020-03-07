@@ -1,3 +1,5 @@
 Este es un texto para jugar con Git.
 
 Ahora estamos en la rama Other.
+
+Ahora voy a crear un conflicto.
